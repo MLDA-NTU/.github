@@ -29,6 +29,29 @@ To be the leading AI training and research facility for EEE students, staff, and
 - Datathon: Finding new insight in Datas which help business growth
 - NOVA: Capstone event for MLDA, industry day, poject display and competitions
 
+# Social Medias
+<a href="https://www.facebook.com/mldaateee"><img src="https://github.com/TangLitEn/.github/assets/65808174/37933cf8-0b72-4f0c-b96d-9588272ad70c"  width="25" height="25"></a>
+<a href="https://www.instagram.com/mlda_at_eee_ntu/"><img src="https://github.com/TangLitEn/.github/assets/65808174/965f77be-9d90-44d3-85a0-788904a85219"  width="25" height="25"></a>
+<a href="https://www.linkedin.com/company/mlda-at-eee/"><img src="https://github.com/TangLitEn/.github/assets/65808174/01c5ab66-d12d-465c-8b2d-c1fc2b564c02"  width="25" height="25"></a>
+<a href="https://www.youtube.com/@MLDAatEEENTU"><img src="https://github.com/TangLitEn/.github/assets/65808174/05be37b6-d52c-4c0d-bb2c-8627946b1903"  width="25" height="25"></a>
+<a href="https://t.me/+PLuM4bohWtczZmY1"><img src="https://github.com/TangLitEn/.github/assets/65808174/85369d30-23a5-43f4-9479-65cc939197f9"  width="25" height="25"></a>
+
+# Conect with us!
+We are currently being led by the 5th batch of committees! Feel free to get in touch with us via the following email addresses:
+| Position                               | Name                  | Email                         |
+|----------------------------------------|-----------------------|-------------------------------|
+| Official NTU MLDA Email                |                       | mlda-eee@ntu.edu.sg            |
+| President                              | Tang Lit En           | e200011@e.ntu.edu.sg           |
+| Deputy President                       | Ananya                | ananya018@e.ntu.edu.sg         |
+| Vice President of Academics             | Huy                   | duchuy001@e.ntu.edu.sg         |
+| Vice President of Project               | Zachary               | Zach0011@e.ntu.edu.sg          |
+| Vice President of Community             | Atulya                | ATULYA001@E.NTU.EDU.SG         |
+| Vice President of Operations            | Ayushman              | mall0006@e.ntu.edu.sg          |
+| Vice President of Branding and Marketing| Alice                 | sulei003@e.ntu.edu.sg          |
+| Vice President of Business Development  | Zhing Wen             | woon0045@e.ntu.edu.sg          |
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
