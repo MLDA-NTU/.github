@@ -45,7 +45,7 @@ We are currently being led by the 5th batch of committees! Feel free to get in t
 | Position                               | Name                  | Email                         |
 |----------------------------------------|-----------------------|-------------------------------|
 | Official NTU MLDA Email                |                       | mlda-eee@ntu.edu.sg            |
-| President                              | Tang Lit En           | e200011@e.ntu.edu.sg           |
+| President                              | Lit En                | e200011@e.ntu.edu.sg           |
 | Deputy President                       | Ananya                | ananya018@e.ntu.edu.sg         |
 | Vice President of Academics             | Huy                   | duchuy001@e.ntu.edu.sg         |
 | Vice President of Project               | Zachary               | Zach0011@e.ntu.edu.sg          |
