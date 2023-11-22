@@ -34,11 +34,11 @@ To be the leading AI training and research facility for EEE students, staff, and
 - NOVA: Capstone event for MLDA, industry day, poject display and competitions
 
 # Social Medias
-<a href="https://www.facebook.com/mldaateee"><img src="https://github.com/TangLitEn/.github/assets/65808174/37933cf8-0b72-4f0c-b96d-9588272ad70c"  width="25" height="25"></a>
-<a href="https://www.instagram.com/mlda_at_eee_ntu/"><img src="https://github.com/TangLitEn/.github/assets/65808174/965f77be-9d90-44d3-85a0-788904a85219"  width="25" height="25"></a>
-<a href="https://www.linkedin.com/company/mlda-at-eee/"><img src="https://github.com/TangLitEn/.github/assets/65808174/01c5ab66-d12d-465c-8b2d-c1fc2b564c02"  width="25" height="25"></a>
-<a href="https://www.youtube.com/@MLDAatEEENTU"><img src="https://github.com/TangLitEn/.github/assets/65808174/05be37b6-d52c-4c0d-bb2c-8627946b1903"  width="25" height="25"></a>
-<a href="https://t.me/+PLuM4bohWtczZmY1"><img src="https://github.com/TangLitEn/.github/assets/65808174/85369d30-23a5-43f4-9479-65cc939197f9"  width="25" height="25"></a>
+<a href="https://www.facebook.com/mldaateee"><img src="https://github.com/MLDA-NTU/.github/assets/65808174/3faf886d-80de-43a7-b464-ba7f86d9bdbc"  width="25" height="25"></a>
+<a href="https://www.instagram.com/mlda_at_eee_ntu/"><img src="https://github.com/MLDA-NTU/.github/assets/65808174/3bd34551-9bc9-42d7-8d2e-465add014eff"  width="25" height="25"></a>
+<a href="https://www.linkedin.com/company/mlda-at-eee/"><img src="https://github.com/MLDA-NTU/.github/assets/65808174/45692a9c-dcb6-41f6-ae31-4353b7b7deb7"  width="25" height="25"></a>
+<a href="https://www.youtube.com/@MLDAatEEENTU"><img src="https://github.com/MLDA-NTU/.github/assets/65808174/42e17480-3875-452e-bf0d-8f63950855e8"  width="25" height="25"></a>
+<a href="https://t.me/+PLuM4bohWtczZmY1"><img src="https://github.com/MLDA-NTU/.github/assets/65808174/062e99f7-65e9-4f50-95e0-0470fce19740"  width="25" height="25"></a>
 
 # Conect with us!
 We are currently being led by the 5th batch of committees! Feel free to get in touch with us via the following email addresses:
