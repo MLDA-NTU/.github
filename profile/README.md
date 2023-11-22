@@ -17,11 +17,15 @@ To be the leading AI training and research facility for EEE students, staff, and
 **LEARN📚**
 
 - LEARNOVA: Basic to advanced workshop series
+  - [Workshop Series 2021/2022](https://github.com/MLDA-NTU/workshops-2021-22)
+  - [Workshop Series 2022/2023](https://github.com/MLDA-NTU/Workshops-2022-23)
+  - [Workshop Series 2023/2024](https://github.com/MLDA-NTU/Workshops-2023-24)
 - Insider Series: Glimpse of current industry focus
 
 **APPLY🛠️**
 
 - PRONOVA: Apply what you have learned in meaningful projects and get recognized in MLDA
+  - [PRONVOA 2023/2024](https://github.com/MLDA-NTU/MLDA-Projects-Recognition)
 
 **CONNECT🔗**
 
