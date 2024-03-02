@@ -41,7 +41,7 @@ To be the leading AI training and research facility for EEE students, staff, and
 <a href="https://t.me/+PLuM4bohWtczZmY1"><img src="https://github.com/MLDA-NTU/.github/assets/65808174/062e99f7-65e9-4f50-95e0-0470fce19740"  width="25" height="25"></a>
 
 # Conect with us!
-We are currently being led by the [5th batch of committees](https://docs.google.com/presentation/d/1SjiLevAVkGrVkwlWBTAOt-_xJs1BzuxYguAOoTjq2VY/edit?usp=sharing)! Feel free to get in touch with us via the following email addresses:
+We are currently being led by the [5th batch of committees](https://docs.google.com/presentation/d/1SjiLevAVkGrVkwlWBTAOt-_xJs1BzuxYguAOoTjq2VY/edit?usp=sharing)! Feel free to get in touch with us via the following [email addresses](https://docs.google.com/presentation/d/1RRfziWAN8F9ENOBBvsQviD7CcGWJqYLg/edit?usp=sharing&ouid=112494988214218977251&rtpof=true&sd=true):
 | Position                               | Name                  | Email                         |
 |----------------------------------------|-----------------------|-------------------------------|
 | Official NTU MLDA Email                |                       | mlda-eee@ntu.edu.sg            |
