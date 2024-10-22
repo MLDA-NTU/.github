@@ -41,18 +41,19 @@ To be the leading AI training and research facility for EEE students, staff, and
 <a href="https://t.me/+PLuM4bohWtczZmY1"><img src="https://github.com/MLDA-NTU/.github/assets/65808174/062e99f7-65e9-4f50-95e0-0470fce19740"  width="25" height="25"></a>
 
 # Conect with us!
-We are currently being led by the [5th batch of committees](https://docs.google.com/presentation/d/1SjiLevAVkGrVkwlWBTAOt-_xJs1BzuxYguAOoTjq2VY/edit?usp=sharing)! Feel free to get in touch with us via the following [email addresses](https://docs.google.com/presentation/d/1RRfziWAN8F9ENOBBvsQviD7CcGWJqYLg/edit?usp=sharing&ouid=112494988214218977251&rtpof=true&sd=true):
+We are currently being led by the [6th batch of committees](https://docs.google.com/presentation/d/1SjiLevAVkGrVkwlWBTAOt-_xJs1BzuxYguAOoTjq2VY/edit?usp=sharing)! Feel free to get in touch with us via the following [email addresses](https://docs.google.com/presentation/d/1RRfziWAN8F9ENOBBvsQviD7CcGWJqYLg/edit?usp=sharing&ouid=112494988214218977251&rtpof=true&sd=true):
 | Position                               | Name                  | Email                         |
 |----------------------------------------|-----------------------|-------------------------------|
 | Official NTU MLDA Email                |                       | mlda-eee@ntu.edu.sg            |
-| President                              | Lit En                | e200011@e.ntu.edu.sg           |
-| Deputy President                       | Ananya                | ananya018@e.ntu.edu.sg         |
-| Vice President of Academics             | Huy                   | duchuy001@e.ntu.edu.sg         |
-| Vice President of Project               | Zachary               | Zach0011@e.ntu.edu.sg          |
-| Vice President of Community             | Atulya                | ATULYA001@E.NTU.EDU.SG         |
-| Vice President of Operations            | Ayushman              | mall0006@e.ntu.edu.sg          |
-| Vice President of Branding and Marketing| Alice                 | sulei003@e.ntu.edu.sg          |
-| Vice President of Business Development  | Zhing Wen             | woon0045@e.ntu.edu.sg          |
+| President                              | Simon Yan             | yanj0017@e.ntu.edu.sg          |
+| Deputy President                       | Yen Heng              | wong1348@e.ntu.edu.sg          |
+| Sec Hon Gen                            | Ananya                | ananya018@e.ntu.edu.sg         |
+| Vice President of Academics             | Ian Le Xian          | lcheo001@e.ntu.edu.sg          |
+| Vice President of Project               | George               | geor0014@e.ntu.edu.sg          |
+| Vice President of Community             | Abhiram              | abhiram001@e.ntu.edu.sg        |
+| Vice President of Operations            | Wei Xiang            | e230089@e.ntu.edu.sg           |
+| Vice President of Branding and Marketing| Yi Rong              | leey0237@e.ntu.edu.sg          |
+| Vice President of Business Development  | Nitin                | nitin010@e.NTU.edu.sg          |
 
 <!--
 
